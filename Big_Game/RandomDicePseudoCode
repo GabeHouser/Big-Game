@@ -1,0 +1,8 @@
+//Start new Game
+//ask for 1 or 2 players
+//make a loop to get proper input
+//if 1 player
+    //initialize health
+    //while both players have health keep in game loop
+
+

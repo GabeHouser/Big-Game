@@ -1,0 +1,44 @@
+//while loop for proper inputs to start the game
+//(1) for one player (2) for two player
+//if two player roll dice to see who goes first (highest goes first)
+//get random number for each player
+//tell which player goes first
+//start game 1 or 2 player
+//intitialize health
+//main gameplay loop until either players health is zero
+
+//if counting variable odd player 1 turn
+//get player input to roll
+//get random number 1-6
+//tell player what they rolled
+//take number rolled take it off of opposite player health
+//tell both player remaining health
+//if health is above 0 or below after turn then continue
+//else end game
+
+//if counting variable even player 2 turn
+//get random number 1-6
+//tell remaining health and roll
+//if health is above 0 or below after turn then continue
+//else end game
+
+//if two player game
+//if counting variable odd player 1 turn
+//get player input to roll
+//get random number 1-6
+//tell player what they rolled
+//take number rolled take it off of opposite player health
+//tell both player remaining health
+//if health is above 0 or below after turn then continue
+//else end game
+
+//if counting variable odd player 2 turn
+//get player input to roll
+//get random number 1-6
+//tell player what they rolled
+//take number rolled take it off of opposite player health
+//tell both player remaining health
+//if health is above 0 or below after turn then continue
+//else end game
+
+//when game over ask to continue or exit
